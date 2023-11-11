@@ -25,7 +25,6 @@ public class CastingReferenciadosAPrimitivos {
         // o
         byte numByteParseByte = Byte.parseByte("35"); // 35 -> byte
 
-
         double numDoubleValueOf = Double.valueOf("589D"); // 589.0 -> double
         // o
         double numDoubleParseDouble = Double.parseDouble("55"); // 55.0 -> double
